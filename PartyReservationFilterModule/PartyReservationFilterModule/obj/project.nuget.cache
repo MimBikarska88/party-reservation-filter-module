@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nY4uLvDRdfbgmzXF1ZQ2lBVcFGzW2zZcLnKWTFn013PkyJpQuOIO+bIw09DENRjOUZ9OAgMKBowUaHPeRjnsag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mimi\\RiderProjects\\PartyReservationFilterModule\\PartyReservationFilterModule\\PartyReservationFilterModule.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mimi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
